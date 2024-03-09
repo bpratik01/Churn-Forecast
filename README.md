@@ -35,7 +35,7 @@ Churn Forecast is a data science project focused on predicting customer churn ra
 3. Execute the main script to perform churn prediction and generate insights.
 
 ### Results and Analysis
-The project results provide deep insights into customer churn behavior, helping stakeholders understand the factors influencing churn rates and guiding strategic decision-making. Decision trees and random forest algorithms prove effective in predicting churn, with random forest demonstrating superior performance. 
+The project results provide deep insights into customer churn behavior, helps in understanding the factors that influence churn rates and guide towards strategic decision-making. Decision trees and random forest algorithms prove effective in predicting churn, with random forest demonstrating superior performance. 
 
 
 ---
